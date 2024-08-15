@@ -19,5 +19,5 @@ This script sets up a remote port forwarding tunnel using `ssh` and `serveo.net`
 
    Clone this repository to your local machine:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/ABDULLAHASADXYZ/Serveo.git
+   cd Serveo/
